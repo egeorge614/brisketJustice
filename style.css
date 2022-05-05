@@ -1,0 +1,35 @@
+/* Set ALL HTML elements with border-box sizing */* {
+    box-sizing: border-box;
+}
+
+h1, h2, .green-text {
+    color: green;
+    font-family: Arial, sans-serif;
+    padding: 5px;
+  }
+  
+  
+  h3 {
+    color: darkgreen;
+    font-family: Arial, sans-serif;
+    margin: 25px;
+    padding: 25px;
+  }
+  
+  
+  
+  .green-text {
+    color: green;
+    font-family: Arial, sans-serif;
+  }
+
+  div{
+    margin: 25px;
+    padding: 25px;
+  }
+  footer{
+      padding-top: 100px;
+    font-family: Arial, sans-serif;
+    color: lightslategray;
+    font-size: xx-small;
+  }
