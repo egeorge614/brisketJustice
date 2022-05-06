@@ -32,6 +32,10 @@ h1, h2, .green-text {
     font-family: Arial, sans-serif;
     color: lightslategray;
     font-size: xx-small;
+    text-align: center;
+    height: 10 px;
+    padding: 5px;
+    border-style: inset;   
   }
 
   ul{
