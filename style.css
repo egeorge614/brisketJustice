@@ -36,12 +36,11 @@ h1, h2, .green-text {
 
   ul{
     background-color: black;
+    padding: 5px;
+    width: 500px;
   }
 
-  .white-text{
-    color: white;
-    font-family: Arial, sans-serif;
-  }
+  
 
 
 
